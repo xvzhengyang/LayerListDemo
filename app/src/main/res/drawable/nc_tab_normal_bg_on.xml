@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:left="20dp"
+        android:right="20dp">
+        <color android:color="@color/csc_orange" />
+
+    </item>
+
+    <!-- 白色背景 bottom距离底部的偏移量-->
+    <item
+        android:bottom="2dp"
+        android:drawable="@color/csc_white" />
+
+</layer-list>
